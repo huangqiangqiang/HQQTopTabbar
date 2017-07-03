@@ -1,0 +1,16 @@
+PODS:
+  - HQQTopTabbar (0.1.0)
+
+DEPENDENCIES:
+  - HQQTopTabbar (from `../`)
+
+EXTERNAL SOURCES:
+  HQQTopTabbar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HQQTopTabbar: 32e0b4e1d4c6680be1351d1d69cc3246726ea31a
+
+PODFILE CHECKSUM: bf41b8ad65fb3e9d8b9469f71be733b8cb5fd726
+
+COCOAPODS: 1.2.0

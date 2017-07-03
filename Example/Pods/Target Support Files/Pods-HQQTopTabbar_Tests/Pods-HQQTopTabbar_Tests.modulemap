@@ -1,0 +1,6 @@
+framework module Pods_HQQTopTabbar_Tests {
+  umbrella header "Pods-HQQTopTabbar_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

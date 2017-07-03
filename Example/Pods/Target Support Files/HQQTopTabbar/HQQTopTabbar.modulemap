@@ -1,0 +1,6 @@
+framework module HQQTopTabbar {
+  umbrella header "HQQTopTabbar-umbrella.h"
+
+  export *
+  module * { export * }
+}

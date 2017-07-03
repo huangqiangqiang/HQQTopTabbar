@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HQQTopTabbar_Example' do
+  pod 'HQQTopTabbar', :path => '../'
+
+  target 'HQQTopTabbar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
